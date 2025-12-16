@@ -1,0 +1,336 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e1]:
+  - generic [ref=e4]:
+    - generic [ref=e5]:
+      - generic [ref=e7]:
+        - generic [ref=e8]:
+          - link [ref=e9] [cursor=pointer]:
+            - /url: https://txbqac.com
+            - img [ref=e11]
+          - tablist [ref=e15]:
+            - listitem [ref=e16]:
+              - tab "Home" [ref=e17] [cursor=pointer]
+            - listitem [ref=e18]:
+              - tab "Contacts" [ref=e19] [cursor=pointer]
+            - listitem [ref=e20]:
+              - tab "Create New" [ref=e21] [cursor=pointer]
+            - listitem [ref=e22]:
+              - tab "My Account" [ref=e23] [cursor=pointer]
+            - listitem [ref=e24]:
+              - tab "Help Center" [ref=e25] [cursor=pointer]
+        - generic [ref=e27]:
+          - generic [ref=e29] [cursor=pointer]:
+            - generic [ref=e30]: 
+            - generic [ref=e31]: "1"
+          - generic [ref=e33]:
+            - img [ref=e37] [cursor=pointer]
+            - text:     
+          - generic [ref=e42] [cursor=pointer]:
+            - generic [ref=e43]:
+              - generic [ref=e44]: Testing
+              - generic [ref=e45]: My Profile
+            - img "user-img" [ref=e47]
+      - generic [ref=e50]:
+        - text:     
+        - generic [ref=e51]:
+          - text: 
+          - list [ref=e54]:
+            - listitem [ref=e55]:
+              - link "Text Letter" [ref=e56] [cursor=pointer]:
+                - /url: https://txbqac.com/order/1
+                - generic [ref=e57]: Text Letter
+            - listitem [ref=e58]:
+              - link "TextCard" [ref=e59] [cursor=pointer]:
+                - /url: https://txbqac.com/order/2
+                - generic [ref=e60]: TextCard
+            - listitem [ref=e61]:
+              - link "Doodles4Kids" [ref=e62] [cursor=pointer]:
+                - /url: https://txbqac.com/order/3
+                - generic [ref=e63]: Doodles4Kids
+            - listitem [ref=e64]:
+              - link "General Document" [ref=e65] [cursor=pointer]:
+                - /url: https://txbqac.com/order/6
+                - generic [ref=e66]: General Document
+            - listitem [ref=e67]:
+              - link "Gift of Communication" [ref=e68] [cursor=pointer]:
+                - /url: https://txbqac.com/gift-of-communication
+                - generic [ref=e69]: Gift of Communication
+    - text: 
+    - generic [ref=e70]:
+      - generic [ref=e71]:
+        - text: 
+        - paragraph [ref=e76]: I am Order Banner - Depending on module
+        - generic [ref=e77]:
+          - generic [ref=e80]:
+            - generic [ref=e82]:
+              - heading "Creating a new Text Letter order" [level=4] [ref=e83]
+              - paragraph [ref=e84]: Draft is saved on this device for each contact automatically.
+            - generic [ref=e85]:
+              - generic [ref=e86]:
+                - generic [ref=e88]:
+                  - generic [ref=e89]: "Step 1: Select a contact type"
+                  - combobox [ref=e90]
+                  - combobox "My Direct Contacts" [ref=e93] [cursor=pointer]:
+                    - textbox "My Direct Contacts" [ref=e94]
+                    - text: 
+                - generic [ref=e97]:
+                  - generic [ref=e98]:
+                    - generic [ref=e99]: "Step 2 : Select a contact"
+                    - paragraph [ref=e100]: Please note that the residents listed in the dropdown below are filtered based on the participating correctional facility.
+                    - combobox [ref=e101]
+                    - combobox "×Jawad A Rana - BK2260" [ref=e104] [cursor=pointer]:
+                      - textbox "Jawad A Rana - BK2260" [ref=e105]:
+                        - generic "Remove all items" [ref=e106]: ×
+                      - text: 
+                  - link "Or, add a new contact" [ref=e107] [cursor=pointer]:
+                    - /url: https://txbqac.com/contacts/search/residents/index
+              - generic [ref=e110]:
+                - paragraph [ref=e111]: "Contact Type Descriptions:"
+                - list [ref=e112]:
+                  - listitem [ref=e113]:
+                    - strong [ref=e114]: My Direct Contacts:-
+                    - text: Contacts you added to your account yourself.
+                  - listitem [ref=e115]:
+                    - strong [ref=e116]: Mass Communication Contacts:-
+                    - text: Contacts automatically added to your account due to a Mass Communication order.
+                  - listitem [ref=e117]:
+                    - strong [ref=e118]: Team Shared Contacts:-
+                    - text: This option is applicable only to the User TYPE II (Organizations and Educators). If sharing options are enabled, the shared contacts will also become available for selection.
+            - generic [ref=e119]:
+              - generic [ref=e123]:
+                - generic [ref=e126]: JR
+                - table [ref=e127]:
+                  - rowgroup [ref=e128]:
+                    - 'row "Resident Name: Jawad A Rana" [ref=e129]':
+                      - cell "Resident Name:" [ref=e130]
+                      - cell "Jawad A Rana" [ref=e131]
+                    - 'row "Resident Number: BK2260" [ref=e132]':
+                      - cell "Resident Number:" [ref=e133]
+                      - cell "BK2260" [ref=e134]
+                    - 'row "Correctional Facility: Adiala jail, WI" [ref=e135]':
+                      - cell "Correctional Facility:" [ref=e136]
+                      - cell "Adiala jail, WI" [ref=e137]
+              - generic [ref=e141]:
+                - generic [ref=e143]:
+                  - paragraph [ref=e144]: "Tracking #, Case #, or Lesson #, or Customer ID"
+                  - 'textbox "Enter Tracking #" [ref=e145]'
+                - generic [ref=e146]: This ID field is optional and can help the recipient identify your document(s).
+            - generic [ref=e147]:
+              - generic [ref=e150]:
+                - 'heading "Step 3: Add your message" [level=5] [ref=e151]'
+                - generic [ref=e152]:
+                  - textbox "Start typing your message here.." [ref=e153]: This is for Automation test
+                  - generic [ref=e154]:
+                    - generic [ref=e155]:
+                      - text: "Draft Saved:"
+                      - generic [ref=e156]: Oct 22, 2025 - 16:42
+                    - generic [ref=e157]: "Pages: 1 / 2"
+              - generic [ref=e159]:
+                - 'heading "Step 4: Add your photos or videos" [level=5] [ref=e160]'
+                - paragraph [ref=e161]: Click on any of the following options.
+                - generic [ref=e162]:
+                  - generic [ref=e165] [cursor=pointer]:
+                    - img "photo icon" [ref=e167]
+                    - button "Capture Photo" [ref=e168]
+                    - generic [ref=e170]:
+                      - button "Choose File" [ref=e171]
+                      - button "Choose files" [ref=e172]
+                  - generic [ref=e174] [cursor=pointer]:
+                    - button "Capture Video" [ref=e176]
+                    - generic [ref=e178]:
+                      - button "Choose File" [ref=e179]
+                      - button "Choose files" [ref=e180]
+              - paragraph [ref=e183]: "Please note: The system will automatically adjust the photo size to ensure that the resident will see the entire image."
+              - text:  
+          - generic [ref=e186]:
+            - heading "Order Summary" [level=4] [ref=e188]
+            - generic [ref=e189]:
+              - generic [ref=e190]: Available Cash Balance
+              - generic [ref=e192]: $40.48
+            - generic [ref=e193]:
+              - generic [ref=e194]: Text Letter
+              - generic [ref=e195]: $0.50
+            - generic [ref=e196]:
+              - generic [ref=e197]: Total Amount
+              - generic [ref=e198]: $0.50 (1 Credits)
+            - generic [ref=e199]:
+              - generic [ref=e200]:
+                - text: Convenience Fee
+                - text: (For Credit/Debit Card Payments Only)
+              - generic [ref=e201]: $0.01 (2.54%)
+            - generic [ref=e202]:
+              - generic [ref=e203]: Total Payable with Convenience Fee
+              - generic [ref=e204]: $0.51
+            - generic [ref=e207] [cursor=pointer]:
+              - checkbox "I agree to the TextBehind Terms of Service" [checked] [ref=e208]
+              - generic [ref=e210]:
+                - text: I agree to the TextBehind
+                - link "Terms of Service" [ref=e211]:
+                  - /url: javascript:void(0)
+            - button "Proceed" [ref=e214] [cursor=pointer]
+        - generic: 
+        - generic: 
+        - text: "?"
+      - dialog "TextBehind Terms of Service" [active] [ref=e215]:
+        - document:
+          - generic [ref=e221]:
+            - generic [ref=e222]:
+              - heading "Select a payment method" [level=4] [ref=e223]
+              - button "Close" [ref=e224] [cursor=pointer]:
+                - generic [ref=e225]: 
+            - text: 
+            - generic [ref=e226]:
+              - generic [ref=e227]:
+                - generic [ref=e228]: "Text Letter Payable:"
+                - link "$0.50 (1 Credits)" [ref=e229] [cursor=pointer]:
+                  - /url: "javascript:"
+              - separator [ref=e230]
+              - generic [ref=e231]:
+                - generic [ref=e232]:
+                  - text: "Convenience Fee:"
+                  - text: (For Credit/Debit Card Payments Only)
+                - link "$0.01 (2.54%)" [ref=e233] [cursor=pointer]:
+                  - /url: "javascript:"
+              - generic [ref=e234]:
+                - generic [ref=e235]: "Total Payable with Convenience Fee:"
+                - link "$0.51" [ref=e236] [cursor=pointer]:
+                  - /url: "javascript:"
+            - generic [ref=e239]:
+              - generic [ref=e241]:
+                - generic [ref=e243]:
+                  - paragraph [ref=e244]: "Convenience Fee Disclosure:"
+                  - paragraph [ref=e245]: All payments made on the TextBehind website and mobile apps using any credit/debit card are subject to a 2.54% Convenience Fee charged in addition to the Total Amount of the transaction.
+                - generic [ref=e246]:
+                  - img [ref=e250]
+                  - generic [ref=e252]: Pay using a credit or debit card
+                - generic [ref=e253]:
+                  - combobox [ref=e256]:
+                    - option "Select Credit Card"
+                    - option "Use New Card"
+                    - option "Waqas Khan -XXXX4242" [selected]
+                    - option "Yeo Cervantes -XXXX4242"
+                  - button "Pay" [ref=e258] [cursor=pointer]
+              - generic [ref=e260]:
+                - generic [ref=e261]:
+                  - img [ref=e265]
+                  - generic [ref=e267]: Pay using account cash balance
+                - generic [ref=e268]:
+                  - generic [ref=e269]: "Current Cash Balance:"
+                  - link "$40.48" [ref=e270] [cursor=pointer]:
+                    - /url: "#"
+                  - button "Pay" [ref=e271] [cursor=pointer]
+              - generic [ref=e273]:
+                - generic [ref=e274]:
+                  - img [ref=e278]
+                  - generic [ref=e282]: Pay using discount deal credits
+                - generic [ref=e283]:
+                  - combobox [ref=e284]
+                  - combobox "Select Discount Deal" [ref=e287] [cursor=pointer]:
+                    - textbox [ref=e288]:
+                      - generic [ref=e289]: Select Discount Deal
+                    - text: 
+                - generic [ref=e290]:
+                  - generic [ref=e291]:
+                    - text: "Available Credits:"
+                    - link:
+                      - /url: "#"
+                  - button "Pay" [ref=e293] [cursor=pointer]
+    - generic [ref=e296]:
+      - paragraph [ref=e297]:
+        - generic [ref=e298]: 
+        - text: TextBehind, Inc 2012 - 2025
+      - paragraph [ref=e299]: TextBehind®, TextBehind Logo, TXB™, TextPals®, TextCards®, Connecting Relationships® and various other related statements are registered trademarks of TextBehind, Inc. 3rd party logos and service links are for reference only. Use of this website constitutes your acceptance of our standard terms and conditions.
+      - link "Legal, disclaimer and acknowledgements" [ref=e300] [cursor=pointer]:
+        - /url: https://txbqac.com/legal
+  - generic [ref=e301]:
+    - generic [ref=e302]:
+      - heading "User Profile" [level=3] [ref=e303]
+      - link "" [ref=e304] [cursor=pointer]:
+        - /url: "#"
+        - generic [ref=e305]: 
+    - generic [ref=e306]:
+      - generic [ref=e311]:
+        - generic [ref=e312]: Testing Fnf
+        - generic [ref=e313]: Family & Friends
+        - generic [ref=e314]: "ID#: 205"
+        - link "Sign Out" [ref=e316] [cursor=pointer]:
+          - /url: https://txbqac.com/logout
+      - generic [ref=e318]:
+        - link "My Account Account settings and more" [ref=e319] [cursor=pointer]:
+          - /url: https://txbqac.com/my-account/account-summary
+          - generic [ref=e320]:
+            - img [ref=e324]
+            - generic [ref=e329]:
+              - generic [ref=e330]: My Account
+              - generic [ref=e331]: Account settings and more
+        - link "My Contacts Contacts & conversations" [ref=e332] [cursor=pointer]:
+          - /url: https://txbqac.com/contacts
+          - generic [ref=e333]:
+            - img [ref=e337]
+            - generic [ref=e344]:
+              - generic [ref=e345]: My Contacts
+              - generic [ref=e346]: Contacts & conversations
+        - link "Transaction History Order & payments history" [ref=e347] [cursor=pointer]:
+          - /url: https://txbqac.com/transaction-history
+          - generic [ref=e348]:
+            - img [ref=e352]
+            - generic [ref=e357]:
+              - generic [ref=e358]: Transaction History
+              - generic [ref=e359]: Order & payments history
+        - link "Notification Center Notification Center" [ref=e360] [cursor=pointer]:
+          - /url: https://txbqac.com/notifications
+          - generic [ref=e361]:
+            - img [ref=e365]
+            - generic [ref=e369]:
+              - generic [ref=e370]: Notification Center
+              - generic [ref=e371]: Notification Center
+  - img [ref=e374] [cursor=pointer]
+  - generic [ref=e379]:
+    - generic [ref=e381]:
+      - generic [ref=e383]:
+        - generic [ref=e384] [cursor=pointer]:
+          - generic [ref=e385]: 
+          - text: "10"
+        - generic [ref=e387] [cursor=pointer]: 
+        - generic [ref=e389] [cursor=pointer]: 
+        - generic [ref=e390] [cursor=pointer]:
+          - generic [ref=e391]: 
+          - text: "0"
+        - generic [ref=e393] [cursor=pointer]: 
+        - generic [ref=e394] [cursor=pointer]:
+          - generic [ref=e395]: 
+          - text: "4"
+        - generic [ref=e396] [cursor=pointer]:
+          - generic [ref=e397]: 
+          - text: "2"
+        - generic [ref=e399] [cursor=pointer]: 
+        - generic [ref=e401] [cursor=pointer]: 
+        - generic [ref=e403] [cursor=pointer]: 
+        - generic [ref=e405] [cursor=pointer]: 
+      - generic [ref=e406]:
+        - combobox [ref=e410] [cursor=pointer]:
+          - option "#1 105547649 (11:42:04)"
+          - option "#2 number (ajax) (11:42:11)"
+          - option "#3 address (ajax) (11:42:11)"
+          - option "#4 message (ajax) (11:42:11)"
+          - option "#5 modal (ajax) (11:42:11)"
+          - option "#6 105547649?evidence_video_request=0&order_type=1&inmate_id=105547649 (ajax) (11:42:11)"
+          - option "#7 credit-card (ajax) (11:42:12)" [selected]
+        - generic [ref=e411]:
+          - generic [ref=e412]: 
+          - text: 8.1.18
+        - generic [ref=e413]:
+          - generic [ref=e414]: 
+          - text: 221ms
+        - generic [ref=e415]:
+          - generic [ref=e416]: 
+          - text: 4MB
+        - generic [ref=e417]:
+          - generic [ref=e418]: 
+          - text: GET credit-card
+    - text:                                   
+  - text: 
+  - img
+```
